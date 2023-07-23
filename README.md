@@ -4,7 +4,7 @@
 
 👾. Front-end student and developer by Alura & Rocketseat.
 
-🐱. I love technology, visual arts and cats
+🐱. I love technology, art and cats
 
 <div align="center">
   <a href="https://github.com/maalcantara">
