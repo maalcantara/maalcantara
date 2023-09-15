@@ -4,7 +4,10 @@
 
 👾. Front-end student and developer by Alura & Rocketseat.
 
-🐱. I love technology, art and cats
+🐱. I love technology, art and cats.
+
+🏊. I recently dived in the pool from 42.
+<h2 aLign="left"> <a href="#"><img src="https://nadei.42sp.org.br/img/InsigneaP3.png" width="100px"/>
 
 <div align="center">
   <a href="https://github.com/maalcantara">
@@ -20,13 +23,16 @@
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <div align="center" style="display: inline_block"><br>
+  <img aling="left" alt="Mari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img aling="center" alt="Mari-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img aling="center" alt="Mari-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
   
   <h1 align="center">Tools 🛠️</h1>
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Nanda-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    
-  
+  <img align="center" alt="mari-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="mari-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="mari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
           
   ##
