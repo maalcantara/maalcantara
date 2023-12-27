@@ -6,7 +6,7 @@
 
 🐱. I love technology, art and cats.
 
-🏊. I recently dived in the pool from [42](https://www.42sp.org.br/).
+🏊. I recently dived in the pool from <a href="https://www.42sp.org.br/" target="_blank">42</a>.
 
 <div align="center">
   <a href="https://github.com/maalcantara">
