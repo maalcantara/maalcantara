@@ -6,8 +6,7 @@
 
 🐱. I love technology, art and cats.
 
-🏊. I recently dived in the pool from 42.
-<h2 aLign="left"> <a href="#"><img src="https://nadei.42sp.org.br/img/InsigneaP3.png" width="100px"/>
+🏊. I recently dived in the pool from [42](https://www.42sp.org.br/).
 
 <div align="center">
   <a href="https://github.com/maalcantara">
