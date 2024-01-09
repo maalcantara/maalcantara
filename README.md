@@ -35,6 +35,7 @@
   <h1 align="center">Tools 🛠️</h1>
   <div align="center" style="display: inline_block"><br>
     <img align="center" alt="mari-Figma" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" />
+    <img align="center" alt="mari-Figma" height="35" width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" />
     <img align="center" alt="mari-VScode" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg">
     <img align="center" alt="mari-Git" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg">
     <img align="center" alt="mari-Photoshop" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg">
