@@ -2,7 +2,7 @@
 
 📖. Currently studying computer Science at FAM, specializing in native languages such as C, C++ and C#. 
 
-👾. Front-end student and developer by Alura, DIO and Rocketseat.
+👾. Front-end and .NET student and developer by Alura, DIO and Rocketseat.
 
 🐱. I love technology, art and cats.
 
