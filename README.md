@@ -28,6 +28,7 @@
      <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg">
      <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DotNet.svg">
      <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg">
+     <img align="center" alt="mari-Terraform" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Terraform-Dark.svg">
      <br>
    </div>
 
@@ -43,7 +44,6 @@
     <img align="center" alt="mari-Illustrator" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg">
     <img align="center" alt="mari-AfterEffects" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AfterEffects.svg">
     <img align="center" alt="mari-mySQL" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg">
-    <img align="center" alt="mari-Terraform" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Terraform-Dark.svg">
     
   </div>
           
