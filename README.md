@@ -55,3 +55,6 @@
     <a href="https://discord.gg/maalcantara" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/mariana-alcantara-oliveira-59b6b4264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  <div align="center" style="display: inline_block"> 
+    <a href="https://www.credly.com/badges/5f3f89a0-e104-4676-afd3-6cb84811d066/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" target="_blank" width="150"></a>
+  </div>
