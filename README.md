@@ -58,4 +58,5 @@
   <div align="center" style="display: inline_block"> 
     <a href="https://www.credly.com/badges/5f3f89a0-e104-4676-afd3-6cb84811d066/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" target="_blank" width="150"></a>
     <a href="https://learn.microsoft.com/api/credentials/share/pt-br/MarianaAlcantaraOliveira-5272/ACEEF1CF678D5705?sharingId=D3500BEAE4E96293" target="_blank"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" target="_blank" width="150"></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/pt-br/MarianaAlcantaraOliveira-5272/2BYPAZFV?sharingId=D3500BEAE4E96293" target="_blank"><img src="https://learn.microsoft.com/en-us/media/learn/challenge/challenge-achievement-icon.png" target="_blank" width="130"></a>
   </div>
